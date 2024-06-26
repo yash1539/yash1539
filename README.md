@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Yash 🌟 JavaScript Developer | Fullstack Blockchain Dev | 2+ years 🔭 Exploring the wonders of front-end and back-end development
+👋 Hello, I'm Yash 🌟 Full Stack JavaScript Developer | Fullstack Blockchain Dev | 3+ years 🔭 Exploring the wonders of front-end and back-end development
 
 
 ## 🌐 Socials:
